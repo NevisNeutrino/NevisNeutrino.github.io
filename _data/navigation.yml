@@ -1,31 +1,7 @@
-- name: SBN
-  link: /sbn/Wiki
+- name: SBND
+  link: /sbnd/Wiki
   dropdown:
-    - name: SBN Code
-      link: /sbn/sbncode_wiki/Wiki
-    - name: SBN Production
-      link: /sbn/sbnprod_wiki/Wiki
-    - name: SBN CI and Validation
-      link: /sbn/sbnci_wiki/sbnci_main
-- name: icaruscode
-  link: /icaruscode_wiki/Wiki
-- name: sbndcode
-  link: /sbndcode_wiki/Wiki
-- name: SBN Online
-  link: /sbn/Wiki
-  dropdown:
-    - name: sbndaq
-      link: /sbn_online_wiki/sbndaq_Wiki
-    - name: sbndqm
-      link: /sbn_online_wiki/sbndqm_Wiki
-#- name: SBN Online
-#  link: /sbndaq_wiki/Wiki
-#  dropdown:
-#    - name: sbndaq
-#    link: /sbndaq_wiki/sbndaq_Wiki
-#    - name: sbndqm
-#    link: /sbndqm_wiki/Wiki
-
-# dropdown:
-  #   - name: Page 2
-  #     link: /page-2/
+    - name: SN Stream
+      link: /sbnd/supernova_wiki/Wiki
+- name: Nevis Computing
+  link: /nevis/Wiki
