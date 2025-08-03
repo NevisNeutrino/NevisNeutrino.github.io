@@ -10,8 +10,14 @@ toc_title: Various Computational
 
 
 
-[SSH](ssh.md)
+Various Computational Settings and Tools
 ======================================
+
+Various Settings and Tools to make your coding environment easier to use
+
+
+[SSH](ssh.md)
+------------------------------------------------------------
 
 Setting up remote connection to the Nevis and FNAL machines
 
