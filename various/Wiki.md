@@ -10,7 +10,7 @@ toc_title: Various Computational
 
 
 
-ssh
+[SSH](ssh.md)
 ======================================
 
 Setting up remote connection to the Nevis and FNAL machines
