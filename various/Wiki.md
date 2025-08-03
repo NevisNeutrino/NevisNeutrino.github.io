@@ -16,7 +16,7 @@ toc_title: Various Computational
 Setting up remote connection to the Nevis and FNAL machines
 
 
-IDEs
+[IDEs](ide.md)
 ------------------------------------------------------------
 
 Visual Studio Code and various IDEs, how to configure them for remote use.

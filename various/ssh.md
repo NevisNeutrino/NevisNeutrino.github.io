@@ -30,19 +30,19 @@ Some machines won't be able to access unless you set up a proxy or Nevis VPN.
 In your `.ssh/config`, add these lines:
 
 ```bash
-    Host $MAIN_ALIAS$
-        HostName $MAIN$.nevis.columbia.edu
-        User $USERNAME$
+    Host $MAIN_ALIAS
+        HostName $MAIN.nevis.columbia.edu
+        User $USERNAME
 
-    Host $OTHER_ALIAS$
-        HostName $OTHER$.nevis.columbia.edu
-        User $USERNAME$
-        ProxyJump $MAIN_ALIAS$
+    Host $OTHER_ALIAS
+        HostName $OTHER.nevis.columbia.edu
+        User $USERNAME
+        ProxyJump $MAIN_ALIAS
 ```
 This allows you to connect to a Nevis machine with the following command:
 
 ```bash
-    ssh $OTHER_ALIAS$
+    ssh $OTHER_ALIAS
 ```
 
 To log in each time without re-entering your password, you can use `ssh-keygen`.
