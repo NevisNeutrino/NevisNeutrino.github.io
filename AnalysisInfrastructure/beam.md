@@ -1,3 +1,0 @@
-# Beam Simulation
-
-test
