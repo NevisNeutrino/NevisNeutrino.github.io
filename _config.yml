@@ -1,9 +1,9 @@
 # theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
-title: SBN Software Wiki
-tagline: SBN Software Wiki
-description: A wiki for documentation of the SBN Software packages.
+title: Nevis Neutrino Wiki
+tagline: Nevis Neutrino Wiki
+description: A wiki for documentation of Nevis Neutrino Computing.
 baseurl: "" # the subpath of your site, e.g. /blog
 # favicon: /images/sbn_logo.jpg
 
